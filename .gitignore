@@ -1,0 +1,23 @@
+.idea/
+/idea/
+*.ipr
+*.iml
+*.iws
+
+*.class
+
+*.war
+*.ear
+
+# temp file
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+
+# system
+.DS_Store
+Thumbs.db
+
+target/
